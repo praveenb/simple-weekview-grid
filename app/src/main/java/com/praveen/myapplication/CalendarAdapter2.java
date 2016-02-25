@@ -13,6 +13,9 @@ import android.widget.RelativeLayout;
 import android.widget.RelativeLayout.LayoutParams;
 import android.widget.TextView;
 
+import com.praveen.myapplication.beans.WeekData;
+import com.praveen.myapplication.util.DateUtil;
+
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.GregorianCalendar;

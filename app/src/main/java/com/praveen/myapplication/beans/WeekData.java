@@ -1,6 +1,4 @@
-package com.praveen.myapplication;
-
-import java.util.Date;
+package com.praveen.myapplication.beans;
 
 /**
  * Created by employee2 on 23-02-2016.

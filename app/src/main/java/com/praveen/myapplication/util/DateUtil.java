@@ -1,4 +1,4 @@
-package com.praveen.myapplication;
+package com.praveen.myapplication.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;
